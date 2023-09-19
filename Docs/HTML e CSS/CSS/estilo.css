@@ -1,0 +1,69 @@
+body{
+    font-family: garamond;
+    background-color:#CCC8AA;
+}
+.nome{
+    margin: 0% 0% 5% 18%;
+    font-size: xx-large;
+}
+
+.headernome{
+    margin: 5% 10% 5% 33%;
+}
+
+section{
+    margin: 0% 5% 5% 5%;
+}
+
+.listmenu{
+    list-style: none;
+    display: inline;
+    padding: 0.5%;
+    border: solid;
+    border-color: white;
+}
+
+.linkmenu{
+    text-decoration: none;
+    color:white;
+}
+
+.listmenu:hover{
+    border:none;
+}
+
+#introducao{
+    border: solid;
+    border-color: white;
+    color:white;
+    background-color: #808080;
+    margin: 0% 0.1% 2% 0.1%;
+}
+
+#tags{
+    border: solid;
+    border-color: white;
+    color:white;
+    background-color: #808080;
+    margin: 0% 0.1% 2% 0.1%;
+}
+
+#css{
+    border: solid;
+    border-color: white;
+    color:white;
+    background-color: #808080;
+    margin: 0% 0.1% 2% 0.1%;
+}
+
+#cod{
+    border: solid;
+    border-color: white;
+    color:white;
+    background-color: #808080;
+    margin: 0% 0.1% 2% 0.1%;
+}
+
+li{
+    color: black;
+}
